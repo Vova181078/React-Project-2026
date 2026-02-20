@@ -1,15 +1,22 @@
-
 import './App.css'
-
-const App = ()=> {
-
-
-  return (
-      <div>
+import MainLayout from "./layouts/MainLayout.tsx";
+import {Outlet} from "react-router-dom";
 
 
-      </div>
-  )
+
+
+
+function App() {
+
+
+    return (
+        <>
+            <MainLayout/>
+            <Outlet/>
+
+
+        </>
+    )
 }
 
-export default App;
+export default App
