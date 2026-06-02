@@ -73,4 +73,4 @@ export default defineConfig([
 ```
 
 
-VITE_TMDB_API_KEY=6129c5a5a7819b7da9e245ecef2df781
+VITE_TMDB_API_KEY= in private msg
