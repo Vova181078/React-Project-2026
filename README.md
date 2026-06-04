@@ -72,5 +72,5 @@ export default defineConfig([
 ])
 ```
 
+API = в приват телеграм
 
-VITE_TMDB_API_KEY= in private msg
