@@ -72,5 +72,6 @@ export default defineConfig([
 ])
 ```
 
-API = в приват телеграм
+API = 6129c5a5a7819b7da9e245ecef2df781
+
 
